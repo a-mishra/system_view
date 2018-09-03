@@ -4,5 +4,5 @@ Problem Statement: In R4+ release of ameyo, Supervisor does not have na option t
 
 Proposed solution: 
 
-<Img src='https://raw.githubusercontent.com/a-mishra/system_view/master/Screenshots/availble.png?raw=true' alt='' width=80% >
+<Img src='https://raw.githubusercontent.com/a-mishra/system_view/master/Screenshots/availble.png' alt='list of available agents with autocall on/off ' width=80% >
   

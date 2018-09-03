@@ -3,7 +3,7 @@
   </head>
   <body>
   
-  <div class='highlight'>
+  <div class="language-js highlighter-rouge">
   Am I Highlighted
   </div>
   </body>

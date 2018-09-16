@@ -6,7 +6,7 @@ In R4+ release of ameyo, Supervisor does not have an option to look through the 
 </p>
 <h4>Proposed solution:</h4> 
 <p>
-Written an appliction in Python using Pyqt5 as the UI library and psycopg2 for database connections.<br>
+Written an appliction in Python using PyQt5 as the UI library and psycopg2 for database connections.<br>
 All the information are computed from the database actions and are presented on the UI.<br>
 The Information Presented on UI Includes:
 </p> 

@@ -15,5 +15,5 @@ The Information Presented on UI Includes:
   <li>List of all users which are unavailable or logged out</li>
   <li>List of all available users is color coded to show which agent has Autocall ON and which has Autocall OFF</li>
  </ul>
-<iframe width="1050" height="590" src="https://www.youtube.com/embed/FPY1_pfbBiI">
+<iframe style="width:100%;height:100%;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/FPY1_pfbBiI">
 </iframe>

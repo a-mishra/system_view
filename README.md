@@ -4,5 +4,5 @@ Problem Statement: In R4+ release of ameyo, Supervisor does not have na option t
 
 Proposed solution: 
   
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/FPY1_pfbBiI">
+<iframe width="720" height="auto" src="https://www.youtube.com/embed/FPY1_pfbBiI">
 </iframe>

@@ -15,7 +15,7 @@ The Information Presented on UI Includes:
   <li>Autocall: Count and % of total user with Autocall ON</li>
   <li>List of all users which are logged in and have status set to ready</li>
   <li>List of all users which are unavailable or logged out</li>
-  <li>List of all available users is color coded to show which agent has Autocall ON and which has Autocall OFF</li>
+  <li>List of all available users is color coded to show which agent has Autocall ON(Green) and which has Autocall OFF(Red)</li>
  </ul>
 <iframe style="width:100%;height:auto;display:block;margin-left:auto;margin-right:auto;" src="https://www.youtube.com/embed/FPY1_pfbBiI">
 </iframe>
